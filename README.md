@@ -1,7 +1,7 @@
 # apartemen123
 Berikut adalah beberapa situs populer yang dapat digunakan untuk mencari apartemen:
 
-Properti1.com
+<a href="https://www.properti1.com">Properti1.com</a>
 Menyediakan daftar apartemen untuk disewa atau dijual, dengan antarmuka yang ramah pengguna dan informasi detail.
 
 Kost123.com
