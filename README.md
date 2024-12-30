@@ -7,7 +7,7 @@ Menyediakan daftar apartemen untuk disewa atau dijual, dengan antarmuka yang ram
 Kost123.com
 Selain listing kost, situs ini juga dapat mencakup iklan apartemen dengan tipe kamar berbeda.
 
-Apartemen123.com
+<a href="https://www.apartemen123.com">Apartemen123.com</a>
 Situs properti yang menyediakan pencarian apartemen berdasarkan lokasi, harga, dan fasilitas.
 
 Jual-Apartemen.com
