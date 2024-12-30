@@ -1,5 +1,7 @@
 # apartemen123
 # website apartemen
+Dalam era digital yang semakin maju, kebutuhan akan hunian seperti apartemen dapat dengan mudah dipenuhi melalui bantuan website properti. Website apartemen hadir sebagai solusi modern yang mempermudah pencarian, pembelian, hingga penyewaan apartemen bagi masyarakat urban yang menginginkan efisiensi dan kemudahan.
+
 Berikut adalah beberapa situs populer yang dapat digunakan untuk mencari apartemen:
 
 <a href="https://www.apartemen123.com">Apartemen123.com</a>
